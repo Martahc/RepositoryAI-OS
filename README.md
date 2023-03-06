@@ -77,3 +77,10 @@ When you have finished working in the environment, you can deactivate it with th
  ```
  conda deactivate 
  ```
+ 
+ 
+ ## License and contact
+
+Distributed under [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0). 
+
+Main author and contact: Marta Hidalgo 
