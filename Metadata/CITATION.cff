@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AIOS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Marta '
+    family-names: Hidalgo
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7685116
+repository-code: 'https://github.com/Martahc/RepositoryAI-OS'
+abstract: >-
+  This Python script will read the .pdf files from the path
+  that is entered as an argument. The program will produce
+  for each file a wordcloud, a list of links, and a
+  visualization of the figures that the file contains.
+license: Apache-2.0
