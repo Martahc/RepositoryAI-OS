@@ -7,8 +7,8 @@
     "datePublished": "2023-03-01",
     "dateModified": "2023-03-04",
     "name": "IAOS",
-    "version": "1.0.0",
-    "identifier": "10.5281/zenodo.7685116",
+    "version": "1.0.1",
+    "identifier": "10.5281/zenodo.7702281",
     "description": "This Python script will read the .pdf files from the path\n  that is entered as an argument. The program will produce\n  for each file a wordcloud, a list of links, and a\n  visualization of the figures that the file contains.",
     "programmingLanguage": [
         "Python"
