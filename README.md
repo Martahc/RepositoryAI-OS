@@ -35,7 +35,7 @@ Examples:
 
 ```
 docker build -t dockerfile
-docker  run --network=host -v C:/Users/ramon/IAOS:/app dockerfile app/pdfs
+docker  run --network=host -v C:/Users/ramon/IAOS:/app dockerfile /app/pdfs
 ```
 # Environment
 In case you are not using docker, you can create a conda environment to work with this script, open the terminal and follow the next instructions
