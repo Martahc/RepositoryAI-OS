@@ -1,7 +1,7 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.2.0
+cff-version: 1.0.1
 title: AIOS
 message: >-
   If you use this software, please cite it using the
@@ -12,7 +12,7 @@ authors:
     family-names: Hidalgo
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.7685116
+    value: 10.5281/zenodo.7702281
 repository-code: 'https://github.com/Martahc/RepositoryAI-OS'
 abstract: >-
   This Python script will read the .pdf files from the path
