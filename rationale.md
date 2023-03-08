@@ -6,6 +6,6 @@ Our program must
 
 To do this the program will analyse the pdfs using the grobid API and this will return an XML file that will be used to answer these three questions.
 
-To draw a word cloud with the abstract information from the pdf, the program will use the wordCloud library and will extract the text between the <abstract></abstract> tags <abstract<abstract>> from the xml file of each pdf.
+To draw a word cloud with the abstract information from the pdf, the program will use the wordCloud library and will extract the text between the <abstract></abstract> tags <abstract<abstract>> from the XML file of each pdf.
 To create the visualisation of the number of figures per article, the program will count the number of times the <figure<abstract>> tag appears in the XML file of each pdf and will use the matplotlib.pyplot library to create the histogram.
 To create a list of links we will  search in the XML file for <ptr target<abstract>> tags, that contain a phrase that follows this pattern "https?://[^\s]+".
