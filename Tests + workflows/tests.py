@@ -17,11 +17,11 @@ class TestProgram(unittest.TestCase):
 
     def test_output_file_exists(self):
         # Verificar si el archivo de salida se ha generado
-        self.assertTrue(os.path.exists("resultados.txt"))
+        self.assertTrue(os.path.exists("results.txt"))
 
     def test_output_file_not_empty(self):
         # Verificar si el archivo de salida no está vacío
-        self.assertTrue(os.path.getsize("resultados.txt") > 0)
+        self.assertTrue(os.path.getsize("results.txt") > 0)
 
 
 
